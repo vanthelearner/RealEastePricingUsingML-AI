@@ -32,8 +32,7 @@ The notebook reports:
 .
 ├── notebooks/
 │   └── Real_Estate_Idea_GitHub_GitHubReady.ipynb
-├── data/                       
-├── outputs/                  
+├── data/                                      
 ├── requirements.txt
 ├── .gitignore
 └── README.md
