@@ -1,0 +1,21 @@
+# Core data/ML
+numpy
+pandas
+scikit-learn
+statsmodels
+
+# Visualisation
+matplotlib
+seaborn
+
+# Deep learning
+tensorflow
+
+# (Optional) Mapping / geocoding
+geopy
+geopandas
+contextily
+
+# Notebook runtime
+jupyterlab
+ipykernel
