@@ -1,12 +1,6 @@
 # Dubai Real Estate Transaction Value Prediction (ML) + Mispricing Explorer
 
-This repo contains a university project notebook that:
-- cleans and explores Dubai real estate transaction data,
-- trains multiple machine learning models to predict **transaction value** (`TRANS_VALUE`),
-- compares models using standard regression metrics,
-- and includes an optional “mispricing / arbitrage-style” analysis on a hold-out subset.
 
-> If you’re using this as coursework evidence, make sure publishing it complies with your module’s rules (data sharing, collaboration, AI use, etc.).
 
 ---
 
