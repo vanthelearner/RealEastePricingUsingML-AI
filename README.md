@@ -32,14 +32,12 @@ The notebook reports:
 .
 ├── notebooks/
 │   └── Real_Estate_Idea_GitHub_GitHubReady.ipynb
-├── data/                       # put your CSV(s) here (ignored by git)
-├── outputs/                    # optional exports (ignored by git)
+├── data/                       
+├── outputs/                  
 ├── requirements.txt
 ├── .gitignore
 └── README.md
 ```
-
-**Note:** `data/` is intentionally excluded from Git history in `.gitignore`. Keep raw datasets local.
 
 ---
 
@@ -104,29 +102,7 @@ If you run the mapping section:
 
 ---
 
-## Tech stack
-- Python + Jupyter
-- pandas, numpy
-- scikit-learn, statsmodels
-- matplotlib, seaborn
-- tensorflow/keras (MLP)
-- (optional) geopy, geopandas, contextily
 
----
-
-## Notes for reproducibility
-- Keep file paths **relative** (the GitHub-ready notebook is already patched for this).
-- If you add new plots/tables, consider exporting them to `./outputs/` for easy reporting.
-- For fair model comparison, keep a consistent train/test split and random seed.
-
----
-
-## License
-Choose one:
-- **MIT** (recommended for portfolio work), or
-- keep it private / “All rights reserved” if required by your course.
-
----
 
 ## Acknowledgements / Sources
 - Dubai Land Department (DLD) Open Data (dataset provider)
