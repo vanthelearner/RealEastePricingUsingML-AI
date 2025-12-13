@@ -105,4 +105,5 @@ If you run the mapping section:
 
 ## Acknowledgements / Sources
 - Dubai Land Department (DLD) Open Data (dataset provider)
+- https://dubailand.gov.ae/en/open-data/real-estate-data#/
 
