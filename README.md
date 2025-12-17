@@ -38,8 +38,17 @@ The notebook reports:
 └── README.md
 ```
 
+## Quickstart (scripted pipeline)
+
+Run the refactored training pipeline outside the notebook:
+
+```bash
+python train.py --data data/transactions-2025-11-20.csv --output outputs --sample-frac 0.1
+```
+
+Adjust `--sample-frac` to 1.0 for the full dataset or a smaller fraction for quicker local iterations.
+
 
 ## Acknowledgements / Sources
 - Dubai Land Department (DLD) Open Data (dataset provider)
 - https://dubailand.gov.ae/en/open-data/real-estate-data#/
-
